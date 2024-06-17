@@ -1,0 +1,4 @@
+faiss
+h5py
+numpy
+pickle

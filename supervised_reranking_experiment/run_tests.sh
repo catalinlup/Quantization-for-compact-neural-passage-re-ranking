@@ -1,0 +1,1 @@
+pytest -p no:warnings test/* --html=./test_output/pytest_report.html

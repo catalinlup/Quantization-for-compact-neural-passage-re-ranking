@@ -1,0 +1,12 @@
+{
+    "INPUT_FILE": "faiss.msmarco-v1-passage.aggretriever-cocondenser.h5",
+    "OUTPUT_FILE": "agg_m_6_k_256_4000000.pickle",
+    "TRAINING_DATASET": "vectors",
+    "DOCIDS_DATASET": "docids",
+    "TRAINING_SAMPLE_SIZE": 4000000,
+    "FULL_DATASET": "vectors",
+    "BATCH_SIZE": 1000000,
+    "M": 6,
+    "K": 256
+}
+

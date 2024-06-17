@@ -1,0 +1,12 @@
+{
+    "INPUT_FILE": "faiss.msmarco-v1-passage.tct_colbert.h5",
+    "OUTPUT_FILE": "tct_m_48_k_256_10000.pickle",
+    "TRAINING_DATASET": "vectors",
+    "DOCIDS_DATASET": "docids",
+    "TRAINING_SAMPLE_SIZE": 10000,
+    "FULL_DATASET": "vectors",
+    "BATCH_SIZE": 100000,
+    "M": 48,
+    "K": 256
+}
+

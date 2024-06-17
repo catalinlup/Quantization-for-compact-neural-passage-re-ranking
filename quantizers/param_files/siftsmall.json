@@ -1,0 +1,10 @@
+{
+    "INPUT_FILE": "/home/catalinlup/MyWorkspace/MasterThesis/ThesisCodebase/big_data/siftsmall/siftsmall.h5",
+    "OUTPUT_FILE": "/home/catalinlup/MyWorkspace/MasterThesis/datasets/quantized_indices/siftsmall.pickle",
+    "TRAINING_DATASET": "training",
+    "TRAINING_SAMPLE_SIZE": 25000,
+    "FULL_DATASET": "base",
+    "BATCH_SIZE": 10000,
+    "M": 4,
+    "K": 256
+}
